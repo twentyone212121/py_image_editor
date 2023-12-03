@@ -37,6 +37,9 @@ The Image Editing Application is a versatile tool for manipulating and enhancing
 - Wand
 - packaging
 - CTkColorPicker
+- ImageMagick 7
+[!NOTE]
+To install ImageMagick please follow [this article](https://docs.wand-py.org/en/0.6.13/guide/install.html#install-imagemagick-on-debian-ubuntu)
 
 All specified in 'requirements.txt'
 
