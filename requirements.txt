@@ -1,0 +1,5 @@
+CTkColorPicker==0.8.0
+customtkinter==5.2.1
+packaging==23.2
+Pillow==9.4.0
+Wand==0.6.13
