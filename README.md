@@ -31,6 +31,31 @@ The Image Editing Application is a versatile tool for manipulating and enhancing
 
 ### Prerequisites
 
-- Python 3.x
-- [Additional dependencies, if any]
+- Python 3.9
+- Custom Tkinter
+- Pillow
+- Wand
+- packaging
+- CTkColorPicker
+
+All specified in 'requirements.txt'
+
+### Installation
+
+   ```bash
+   git clone https://github.com/twentyone212121/py_image_editor.git
+   cd py_image_editor
+   pip install -r requirements.txt
+   ```
+### Usage
+
+1. Run the application
+   ```bash
+   python main.py
+   ```
+1. Open an image file or create a new project.
+
+1. Explore the editing tools and make adjustments to your images.
+
+1. Save or export the edited image.
 
